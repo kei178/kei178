@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently building a Shopify admin embedded app using Ruby on Rails and Next.js with TypeScript!
+I'm currently working on a Shopify admin embedded app using Ruby on Rails and Next.js with TypeScript!
 
 [![](https://raw.githubusercontent.com/kei178/kei178/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kei178/kei178/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
