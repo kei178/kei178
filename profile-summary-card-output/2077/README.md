@@ -35,26 +35,6 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/kei178/kei178/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/kei178/kei178/master/profile-summary-card-output/2077/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
